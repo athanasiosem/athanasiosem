@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?width=800&lines=Hi+there!+I+am+Athanasios+Emmanouilidis;+A+Software+Engineer+from+Greece+working+for+Intelligen+INC.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?width=800&lines=Hi+there!+I+am+Athanasios+Emmanouilidis.;+A+Software+Engineer+from+Greece+working+for+Intelligen+INC.;)](https://git.io/typing-svg)
 
 Be sure to read my articles on Medium:
 
