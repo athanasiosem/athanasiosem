@@ -1,4 +1,4 @@
-### A quick introduction
+### Introduction
 
 - I am Athanasios Emmanouilidis, a Software Engineer from Greece working for [Intelligen INC](https://www.intelligen.com).
 - I am passionate about Software Engineering and Cybersecurity. 
