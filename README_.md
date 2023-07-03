@@ -6,8 +6,10 @@ I'm Athanasios Emmanouilidis, a Software Engineer from Greece working for Intell
 
 ### A quick introduction
 
-- I’m currently working at [Intelligen](https://www.intelligen.com).
+- I am currently working at [Intelligen](https://www.intelligen.com).
+- I am passionate about Software Engineering and Cybersecurity. 
 - I'm writing Software Engineering articles on Medium in [Level Up Coding Publication](https://levelup.gitconnected.com).
+- I contribute to Open Source projects.
 ---
 
 ### Medium Articles
