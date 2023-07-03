@@ -3,7 +3,7 @@
 
 - I am Athanasios Emmanouilidis, a Software Engineer from Greece working for [Intelligen INC](https://www.intelligen.com).
 - I am passionate about Software Engineering and Cybersecurity. 
-- I am writing [Software Engineering articles/Cybersecurity articles on Medium](https://medium.com/@emmandev). I am a writer on [Level Up Coding publication](https://levelup.gitconnected.com/).
+- I am writing [Software Engineering/Cybersecurity articles on Medium](https://medium.com/@emmandev). I am a writer on [Level Up Coding publication](https://levelup.gitconnected.com/).
 - I contribute to Open Source projects.
 ---
 
