@@ -2,7 +2,5 @@
 
 I'm Athanasios Emmanouilidis, a Software Engineer from Greece working for Intelligen INC.
 
-### ✍🏻 Medium Blogs
-Be sure to read my articles on Medium:
-
+### ✍🏻 Medium Articles
 [![Athanasios Emmanouilidis's Medium](https://github-readme-medium.vercel.app/?username=emmandev)](https://medium.com/@emmandev)
