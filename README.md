@@ -22,6 +22,6 @@
 
 ### Medium Articles
 
-[![Athanasios Emmanouilidis's Medium](https://github-readme-medium.vercel.app/?username=emmandev&limit=3)]
+[![Athanasios Emmanouilidis's Medium](https://github-readme-medium.vercel.app/?username=emmandev&limit=2&bg=red&text=green)](https://medium.com/@emmandev)
 
 ---
