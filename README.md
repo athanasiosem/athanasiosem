@@ -25,8 +25,8 @@ You can find my Software Engineering and Cybersecurity articles on [Medium](http
 
 ## Open Source Contributions
 
-- I have contributed to [OWASP API Security TOP 10](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/).
-- I have contributed to [Learn X in Y minutes](https://learnxinyminutes.com/docs/el-gr/json-gr/).
+- I have contributed to [OWASP API Security TOP 10](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/) as a translator.
+- I have contributed to [Learn X in Y minutes](https://learnxinyminutes.com/docs/el-gr/json-gr/) as a translator.
 
 ## Contact Me
 
