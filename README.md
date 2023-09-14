@@ -18,7 +18,7 @@ Here are a list of side-projects I've developed:
 
 ## Medium Articles
 
-You can find my Software Engineering and Cybersecurity articles on [Medium](https://medium.com/@emmandev). Here is the latest article of mine:
+You can find my Software Engineering and Cybersecurity articles on [Medium](https://medium.com/@emmandev). Here is my latest article:
 
 [![Athanasios Emmanouilidis's Medium](https://github-readme-medium.vercel.app/?username=emmandev)](https://medium.com/@emmandev)
 
