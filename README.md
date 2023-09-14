@@ -1,26 +1,31 @@
----
-### Introduction
+### About me
 
-- I am Athanasios Emmanouilidis, a Software Engineer from Greece working for [Intelligen INC](https://www.intelligen.com).
-- I am passionate about Software Engineering and Cybersecurity.
-- I contribute to & create Open Source projects. 
-- I am writing [Software Engineering/Cybersecurity articles on Medium](https://medium.com/@emmandev). I am a writer on [Level Up Coding publication](https://levelup.gitconnected.com/).
----
+- I'm Athanasios Emmanouilidis, a passionate Software Engineer and Cybersecurity enthusiast from Greece, currently working for [Intelligen INC](https://www.intelligen.com).
+- I love contributing to and creating open source projects. Additionally, I enjoy sharing my knowledge through articles on [Medium](https://medium.com/@emmandev).
 
-### Open Source
+### Open Source Contributions
 
-- I have contributed to [OWASP API Security TOP 10](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/) and [Learn X in Y minutes](https://learnxinyminutes.com/docs/el-gr/json-gr/).
-- I have developed [betterread](https://github.com/athanasiosem/betterread) and [getos.c](https://github.com/athanasiosem/getos.c).
----
+- I have contributed to [OWASP API Security TOP 10](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/).
+- I have contributed to [Learn X in Y minutes](https://learnxinyminutes.com/docs/el-gr/json-gr/).
 
 ### Medium Articles
 
+You can find my Software Engineering and Cybersecurity articles on [Medium](https://medium.com/@emmandev). Here is the latest article of mine:
+
 [![Athanasios Emmanouilidis's Medium](https://github-readme-medium.vercel.app/?username=emmandev)](https://medium.com/@emmandev)
 
----
+## Projects
 
-### Others
+Here are some of the projects I've developed:
 
-- I have developed [PGPkeygenerator.com](https://pgpkeygenerator.com/) and [FreeUnitConverter.online](https://freeunitconverter.online).
-- I have developed [Quiz Θρησκευτικών](https://play.google.com/store/apps/details?id=io.github.athanasiosem.religiousKnowledgeQuiz&hl=el&gl=US), [Άγιος Μάξιμος Ομολογητής Ρητά](https://play.google.com/store/apps/details?id=io.github.athanasiosem.agiosmaximos400kefalaiaperiagapis&hl=el&gl=US), [UnitConverterOnline](https://play.google.com/store/apps/details?id=online.freeunitconverter&hl=el&gl=US) for Android.
----
+1. **betterread**: Simple Chrome/Edge extension that changes the CSS style of a website for better reading experience. [GitHub Repository](https://github.com/athanasiosem/betterread)
+2. **getos.c**: OS fingerprinting tool that tries to guess OS by using the default TTL reply of ping. [GitHub Repository]((https://github.com/athanasiosem/getos.c)
+3. **PGPkeygenerator.com**: Free, online and secure PGP key generator. [Website](https://pgpkeygenerator.com)
+4. **FreeUnitConverter.online**: Convert units of length, temperature, area, volume, weight and time. [Website](https://freeunitconverter.online)
+5. **Quiz Θρησκευτικών**: Quiz with questions about Orthodoxy. [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.religiousKnowledgeQuiz&hl=el&gl=US)
+6. **Άγιος Μάξιμος Ομολογητής Ρητά**: Saint Maximus the Confessor - 400 texts on Love (Orthodox - Patristic Texts) [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.agiosmaximos400kefalaiaperiagapis&hl=el&gl=US)
+7. **UnitConverterOnline for Android**: Convert units of length, temperature, area, volume, weight and time. [Google Play](https://play.google.com/store/apps/details?id=online.freeunitconverter&hl=en_US&gl=US)
+
+## Contact Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/athanasiosem/) for collaboration or networking opportunities.
