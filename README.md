@@ -9,9 +9,8 @@
 
 ### Open Source
 
-- I have developed [betterread](https://github.com/athanasiosem/betterread) and [getos.c](https://github.com/athanasiosem/getos.c).
 - I have contributed to [OWASP API Security TOP 10](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/) and [Learn X in Y minutes](https://learnxinyminutes.com/docs/el-gr/json-gr/).
-
+- I have developed [betterread](https://github.com/athanasiosem/betterread) and [getos.c](https://github.com/athanasiosem/getos.c).
 ---
 
 ### Medium Articles
