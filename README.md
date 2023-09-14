@@ -1,10 +1,10 @@
-### About me
+## About me
 
 - I'm Athanasios Emmanouilidis, a passionate Software Engineer and Cybersecurity enthusiast from Greece, currently working for [Intelligen INC](https://www.intelligen.com).
 - In my spare time I love creating small projects. Additionally, I enjoy sharing my knowledge through articles on [Medium](https://medium.com/@emmandev).
 
 
-### Projects
+## Projects
 
 Here are some of the projects I've developed:
 
@@ -16,14 +16,14 @@ Here are some of the projects I've developed:
 6. **Άγιος Μάξιμος Ομολογητής Ρητά**: Saint Maximus the Confessor - 400 texts on Love (Orthodox - Patristic Texts) [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.agiosmaximos400kefalaiaperiagapis&hl=el&gl=US)
 7. **UnitConverterOnline for Android**: Convert units of length, temperature, area, volume, weight and time. [Google Play](https://play.google.com/store/apps/details?id=online.freeunitconverter&hl=en_US&gl=US)
 
-### Medium Articles
+## Medium Articles
 
 You can find my Software Engineering and Cybersecurity articles on [Medium](https://medium.com/@emmandev). Here is the latest article of mine:
 
 [![Athanasios Emmanouilidis's Medium](https://github-readme-medium.vercel.app/?username=emmandev)](https://medium.com/@emmandev)
 
 
-### Open Source Contributions
+## Open Source Contributions
 
 - I have contributed to [OWASP API Security TOP 10](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/).
 - I have contributed to [Learn X in Y minutes](https://learnxinyminutes.com/docs/el-gr/json-gr/).
