@@ -6,7 +6,7 @@
 
 ## Projects
 
-Here are some of side-projects I've developed:
+Here are a list of side-projects I've developed:
 
 1. **betterread**: Chrome extension that changes the CSS style of a website for better reading experience. [GitHub Repository](https://github.com/athanasiosem/betterread)
 2. **getos.c**: OS fingerprinting tool that tries to guess OS by using the default TTL reply of ping. [GitHub Repository](https://github.com/athanasiosem/getos.c)
