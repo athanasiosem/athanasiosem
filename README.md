@@ -8,7 +8,7 @@
 
 Here are a list of side projects I've developed:
 
-1. **PGPkeygenerator.com**: Open Source, Free, online and secure PGP key generator. [Website](https://pgpkeygenerator.com) - [GitHub Repository](https://github.com/athanasiosem/pgpkeygenerator.com)
+1. **PGPkeygenerator.com**: Open Source, free, online and secure PGP key generator. [Website](https://pgpkeygenerator.com) - [GitHub Repository](https://github.com/athanasiosem/pgpkeygenerator.com)
 2. **betterread**: Open Source Chrome extension that changes the CSS style of a website for better reading experience. [GitHub Repository](https://github.com/athanasiosem/betterread)
 3. **getos.c**: Open Source OS fingerprinting tool that tries to guess OS by using the default TTL reply of ping. [GitHub Repository](https://github.com/athanasiosem/getos.c)
 4. **FreeUnitConverter.online**: Convert units of length, temperature, area, volume, weight and time. [Website](https://freeunitconverter.online)
