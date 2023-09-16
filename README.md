@@ -6,7 +6,7 @@
 
 ## Projects
 
-Here are a list of side projects I have developed, both Open Source and Proprietary:
+Here are a list of side projects I have developed, both **Open Source** and **Proprietary**:
 
 **Open Source Projects:**
 1. **PGPkeygenerator.com**: Open Source, free, online and secure PGP key generator. [Website](https://pgpkeygenerator.com) - [GitHub Repository](https://github.com/athanasiosem/pgpkeygenerator.com)
