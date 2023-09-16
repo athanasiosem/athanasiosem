@@ -26,7 +26,7 @@ You can find my Software Engineering and Cybersecurity articles on [Medium](http
 [![Athanasios Emmanouilidis's Medium](https://github-readme-medium.vercel.app/?username=emmandev)](https://medium.com/@emmandev)
 
 
-## Open Source Contributions
+## Other Open Source Contributions
 
 - I have contributed to [OWASP API Security TOP 10](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/) as a translator.
 - I have contributed to [Learn X in Y minutes](https://learnxinyminutes.com/docs/el-gr/json-gr/) as a translator.
