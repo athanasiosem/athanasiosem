@@ -21,7 +21,7 @@ Here is a list of side projects I have developed, both **Open Source** and **Pro
 
 ## Medium Articles
 
-You can find my Software Engineering and Cybersecurity articles on [Medium](https://medium.com/@emmandev). 
+You can find my Software Engineering articles on [Medium](https://medium.com/@emmandev). 
 
 ## Other Open Source Contributions
 
