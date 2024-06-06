@@ -14,12 +14,12 @@ Here is a list of side projects I have developed, both **Open Source** and **Pro
 3. **getos.c**: Open Source OS fingerprinting tool that tries to guess OS by using the default TTL reply of ping. [GitHub Repository](https://github.com/athanasiosem/getos.c)
 
 **Proprietary Projects:**
-4. **FreeUnitConverter.online**: Convert units of length, temperature, area, volume, weight and time. [Website](https://freeunitconverter.online)
-5. **UnitConverterOnline for Android**: Convert units of length, temperature, area, volume, weight and time. [Google Play](https://play.google.com/store/apps/details?id=online.freeunitconverter&hl=en_US&gl=US)
+1. **FreeUnitConverter.online**: Convert units of length, temperature, area, volume, weight and time. [Website](https://freeunitconverter.online)
+2. **UnitConverterOnline for Android**: Convert units of length, temperature, area, volume, weight and time. [Google Play](https://play.google.com/store/apps/details?id=online.freeunitconverter&hl=en_US&gl=US)
 
 **Discontinued Projects:**
-6. **Quiz Θρησκευτικών**: Quiz with questions about Orthodoxy. [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.religiousKnowledgeQuiz&hl=el&gl=US)
-7. **Άγιος Μάξιμος Ομολογητής Ρητά**: Saint Maximus the Confessor - 400 texts on Love (Orthodox - Patristic Texts) [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.agiosmaximos400kefalaiaperiagapis&hl=el&gl=US)
+1. **Quiz Θρησκευτικών**: Quiz with questions about Orthodoxy. [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.religiousKnowledgeQuiz&hl=el&gl=US)
+2. **Άγιος Μάξιμος Ομολογητής Ρητά**: Saint Maximus the Confessor - 400 texts on Love (Orthodox - Patristic Texts) [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.agiosmaximos400kefalaiaperiagapis&hl=el&gl=US)
 
 
 ## Medium Articles
