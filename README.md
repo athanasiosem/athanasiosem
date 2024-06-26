@@ -13,6 +13,6 @@ In my spare time I love creating small projects. Additionally, I enjoy sharing m
 - **OWASP API Security TOP 10**: Greek language translation. [Website](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/)
 - **Learn X in Y minutes - JSON**: Greek language translation. [Website](https://learnxinyminutes.com/docs/el-gr/json-gr/)
 
-## Contact Me 🌐
+## Connect with me 🌐
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/athanasiosem/) for collaboration or networking opportunities.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/athanasiosem/).
