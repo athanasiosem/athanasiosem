@@ -11,9 +11,6 @@ In my spare time I love creating small projects. Additionally, I enjoy sharing m
 - **UnitConverterOnline for Android**: Convert units of length, temperature, area, volume, weight and time. [Google Play](https://play.google.com/store/apps/details?id=online.freeunitconverter&hl=en_US&gl=US)
 - **Quiz Θρησκευτικών**: Quiz with questions about Orthodoxy. [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.religiousKnowledgeQuiz&hl=el&gl=US)
 - **Άγιος Μάξιμος Ομολογητής Ρητά**: Saint Maximus the Confessor - 400 texts on Love (Orthodox - Patristic Texts) [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.agiosmaximos400kefalaiaperiagapis&hl=el&gl=US)
-
-## Other Open Source Contributions
-
 - I have contributed to [OWASP API Security TOP 10](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/) as a translator.
 - I have contributed to [Learn X in Y minutes](https://learnxinyminutes.com/docs/el-gr/json-gr/) as a translator.
 
