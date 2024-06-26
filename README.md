@@ -2,7 +2,7 @@
 I am Athanasios Emmanouilidis, a passionate Software Engineer and Cybersecurity enthusiast from Greece, currently working for [Intelligen Inc](https://www.intelligen.com). 
 In my spare time I love creating small projects. Additionally, I enjoy sharing my knowledge through articles on [Medium](https://medium.com/@emmandev).
 
-## Projects
+## Projects </>
 
 - **PGPkeygenerator.com**: Open Source, free, online and secure PGP key generator. [Website](https://pgpkeygenerator.com) - [GitHub Repository](https://github.com/athanasiosem/pgpkeygenerator.com)
 - **betterread**: Open Source Chrome extension that changes the CSS style of a website for better reading experience. [GitHub Repository](https://github.com/athanasiosem/betterread)
@@ -14,6 +14,6 @@ In my spare time I love creating small projects. Additionally, I enjoy sharing m
 - **OWASP API Security TOP 10**: I have contributed to the project as a translator for the greek language. [Website](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/)
 - **Learn X in Y minutes**: I have contributed to the project as a translator for the greek language. [Website](https://learnxinyminutes.com/docs/el-gr/json-gr/)
 
-## Contact Me
+## Contact Me 🌐
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/athanasiosem/) for collaboration or networking opportunities.
