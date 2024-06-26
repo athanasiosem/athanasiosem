@@ -1,4 +1,4 @@
-## Hello, I'm Athanasios Emmanouilidis! 👋
+## Hello there, I'm Athanasios Emmanouilidis! 👋
 - I am a passionate Software Engineer and Cybersecurity enthusiast from Greece, currently working for [Intelligen INC](https://www.intelligen.com).
 - In my spare time I love creating small projects. Additionally, I enjoy sharing my knowledge through articles on [Medium](https://medium.com/@emmandev).
 
