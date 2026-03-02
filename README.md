@@ -1,6 +1,7 @@
 ## Hello there! 👋
 I am Athanasios Emmanouilidis, a Senior Software Engineer in the Banking & Fintech sector with a deep interest in Cybersecurity.
-In my spare time, I build niche projects and document technical insights through my collection of articles on [Medium](https://medium.com/@emmandev).
+
+In my spare time, I build niche projects and document technical insights. While I am currently focused on development, you can explore my past technical deep-dives and tutorials through my collection of articles on [Medium](https://medium.com/@emmandev).
 
 ## Selected Projects </>
 
@@ -12,7 +13,7 @@ In my spare time, I build niche projects and document technical insights through
 - **OWASP API Security TOP 10**: Greek language translation. [Website](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/)
 
 ## Featured Technical Writing ✍️
-You can explore my past technical deep-dives and tutorials on [Medium](https://medium.com/@emmandev).
+Explore my past technical deep-dives and tutorials on [Medium](https://medium.com/@emmandev).
 
 ## Connect with me 🌐
 
