@@ -20,8 +20,7 @@ In my spare time, I build niche projects and document technical insights. While 
 
 ## Featured Technical Writing ✍️
 I maintain a static archive of my previous writings on software architecture, clean code, and security. 
-[Medium](https://medium.com/@emmandev).
+[Medium](https://medium.com/@emmandev)
 
 ## Connect with me 🌐
-
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/athanasiosem/).
