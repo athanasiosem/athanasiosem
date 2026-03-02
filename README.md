@@ -14,10 +14,6 @@ In my spare time, I build niche projects and document technical insights. While 
 🛠️ Open Source & Tools
 - **betterread**: Chrome extension to optimize website CSS for a better reading experience. [GitHub Repository](https://github.com/athanasiosem/betterread)
 
-📱 Mobile Applications (Android)
-- **Quiz Θρησκευτικών**: Educational quiz app on Orthodoxy. [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.religiousKnowledgeQuiz&hl=el&gl=US)
-- **Άγιος Μάξιμος Ομολογητής Ρητά**: Saint Maximus the Confessor - 400 texts on Love (Orthodox - Patristic Texts) [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.agiosmaximos400kefalaiaperiagapis&hl=el&gl=US)
-
 ## Featured Technical Writing ✍️
 I maintain a static archive of my previous writings on software architecture, clean code, and security. 
 [Medium](https://medium.com/@emmandev)
