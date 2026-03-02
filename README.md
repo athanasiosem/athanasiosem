@@ -11,7 +11,7 @@ In my spare time, I build niche projects and document technical insights through
 - **Άγιος Μάξιμος Ομολογητής Ρητά**: Saint Maximus the Confessor - 400 texts on Love (Orthodox - Patristic Texts) [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.agiosmaximos400kefalaiaperiagapis&hl=el&gl=US)
 - **OWASP API Security TOP 10**: Greek language translation. [Website](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/)
 
-## ✍️ Featured Technical Writing
+## Featured Technical Writing ✍️
 Read my articles on [Medium](https://medium.com/@emmandev)
 
 ## Connect with me 🌐
