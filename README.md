@@ -1,5 +1,5 @@
 ## Hello there! 👋
-I am Athanasios Emmanouilidis, a Senior Software Engineer and Cybersecurity enthusiast from Greece. 
+I am Athanasios Emmanouilidis, a Senior Software Engineer in the Banking & Fintech sector with a deep interest in Cybersecurity.
 In my spare time, I build niche projects and document technical insights through my collection of articles on [Medium](https://medium.com/@emmandev).
 
 ## Selected Projects </>
