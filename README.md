@@ -7,19 +7,20 @@ In my spare time, I build niche projects and document technical insights. While 
 
 🛡️ Security & Industry Contributions
 - **PGPkeygenerator.com**: Open Source, free, online and secure PGP key generator. [Website](https://pgpkeygenerator.com) - [GitHub Repository](https://github.com/athanasiosem/pgpkeygenerator.com)
-- **OWASP API Security TOP 10**: Greek language translation. [Website](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/)
-- **ZeroClaw**: Greek language translation. [Website](https://github.com/zeroclaw-labs/zeroclaw/blob/main/docs/i18n/el/README.md)
-- **getos.c**: Open Source OS fingerprinting tool that tries to guess OS by using the default TTL reply of ping. [GitHub Repository](https://github.com/athanasiosem/getos.c)
+- **OWASP API Security TOP 10**: Lead Greek language translation for the official OWASP project. [Website](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/)
+- **ZeroClaw**: Greek language translation for the AI agent. [Website](https://github.com/zeroclaw-labs/zeroclaw/blob/main/docs/i18n/el/README.md)
+- **getos.c**: Open Source OS fingerprinting tool using default TTL ping replies. [GitHub Repository](https://github.com/athanasiosem/getos.c)
 
 🛠️ Open Source & Tools
-- **betterread**: Open Source Chrome extension that changes the CSS style of a website for better reading experience. [GitHub Repository](https://github.com/athanasiosem/betterread)
+- **betterread**: Chrome extension to optimize website CSS for a better reading experience. [GitHub Repository](https://github.com/athanasiosem/betterread)
 
 📱 Mobile Applications (Android)
-- **Quiz Θρησκευτικών**: Quiz with questions about Orthodoxy. [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.religiousKnowledgeQuiz&hl=el&gl=US)
+- **Quiz Θρησκευτικών**: Educational quiz app on Orthodoxy. [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.religiousKnowledgeQuiz&hl=el&gl=US)
 - **Άγιος Μάξιμος Ομολογητής Ρητά**: Saint Maximus the Confessor - 400 texts on Love (Orthodox - Patristic Texts) [Google Play](https://play.google.com/store/apps/details?id=io.github.athanasiosem.agiosmaximos400kefalaiaperiagapis&hl=el&gl=US)
 
 ## Featured Technical Writing ✍️
-I maintain a static archive of my previous writings on software architecture and security on [Medium](https://medium.com/@emmandev).
+I maintain a static archive of my previous writings on software architecture, clean code, and security. 
+[Medium](https://medium.com/@emmandev).
 
 ## Connect with me 🌐
 
