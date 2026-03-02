@@ -16,6 +16,7 @@ In my spare time, I build niche projects and document technical insights. While 
 
 ## Featured Technical Writing ✍️
 I maintain a static archive of my previous writings on software architecture, clean code, and security. [Medium](https://medium.com/@emmandev)
+
 💡 *Note: These articles represent my past documentation efforts; my current focus is on active development and the repositories listed above.*
 
 ## Connect with me 🌐
