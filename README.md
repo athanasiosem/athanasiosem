@@ -12,7 +12,7 @@ In my spare time, I build niche projects and document technical insights through
 - **OWASP API Security TOP 10**: Greek language translation. [Website](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/)
 
 ## Featured Technical Writing ✍️
-Read my articles on [Medium](https://medium.com/@emmandev)
+You can read my articles on [Medium](https://medium.com/@emmandev).
 
 ## Connect with me 🌐
 
