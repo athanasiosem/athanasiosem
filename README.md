@@ -7,7 +7,7 @@ In my spare time, I build niche projects and document technical insights. While 
 
 ## Selected Projects </>
 
-🛡️ Security related
+🛡️ Security
 - **PGPkeygenerator.com**: Open Source, free, online and secure PGP key generator. [Website](https://pgpkeygenerator.com) - [GitHub](https://github.com/athanasiosem/pgpkeygenerator.com)
 - **getos.c**: Open Source OS fingerprinting tool using default TTL ping replies. [GitHub](https://github.com/athanasiosem/getos.c)
 
