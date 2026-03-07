@@ -8,11 +8,11 @@ In my spare time, I build niche projects and document technical insights. While 
 ## Selected Projects </>
 
 🛡️ Security related
-- **PGPkeygenerator.com**: Open Source, free, online and secure PGP key generator. [Website](https://pgpkeygenerator.com) - [GitHub Repository](https://github.com/athanasiosem/pgpkeygenerator.com)
-- **getos.c**: Open Source OS fingerprinting tool using default TTL ping replies. [GitHub Repository](https://github.com/athanasiosem/getos.c)
+- **PGPkeygenerator.com**: Open Source, free, online and secure PGP key generator. [Website](https://pgpkeygenerator.com) - [GitHub](https://github.com/athanasiosem/pgpkeygenerator.com)
+- **getos.c**: Open Source OS fingerprinting tool using default TTL ping replies. [GitHub](https://github.com/athanasiosem/getos.c)
 
 🛠️ Tools
-- **betterread**: Chrome extension to optimize website CSS for a better reading experience. [GitHub Repository](https://github.com/athanasiosem/betterread)
+- **betterread**: Chrome extension to optimize website CSS for a better reading experience. [GitHub](https://github.com/athanasiosem/betterread)
 
 🔠 Translations
 - **OWASP API Security TOP 10**: Lead Greek language translation for the official OWASP project. [Website](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/)
