@@ -5,7 +5,7 @@ I am Athanasios Emmanouilidis, a Senior Software Engineer in the Banking & Finte
 
 In my spare time, I build niche projects and document technical insights. While I am currently focused on development, you can explore my past technical deep-dives and tutorials through my collection of articles on [Medium](https://medium.com/@emmandev).
 
-## Selected Projects </>
+## Selected Personal Projects </>
 
 🛡️ Security
 - **PGPkeygenerator.com**: Open Source, free, online and secure PGP key generator. [Website](https://pgpkeygenerator.com) - [GitHub](https://github.com/athanasiosem/pgpkeygenerator.com)
