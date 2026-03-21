@@ -16,7 +16,6 @@ In my spare time, I build niche projects and document technical insights. While 
 
 🔠 Translations
 - **OWASP API Security TOP 10**: Lead Greek language translation for the official OWASP project. [Website](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/)
-- **ZeroClaw**: Greek language translation for the AI agent. [Website](https://github.com/zeroclaw-labs/zeroclaw/blob/main/docs/i18n/el/README.md)
 
 ## Featured Technical Writing ✍️
 I maintain a static archive of my previous writings on software architecture, clean code, and security. [Medium](https://medium.com/@emmandev)
