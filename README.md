@@ -13,6 +13,7 @@ In my spare time, I build niche projects and document technical insights. While 
 
 🛠️ Tools
 - **betterread**: Chrome extension to optimize website CSS for a better reading experience. [GitHub](https://github.com/athanasiosem/betterread)
+- **bublbobl-rom-extractor**: Recover the MAME bublbobl ROM set from a legitimately-owned Steam build of Bubble Bobble 4 Friends: The Baron's Workshop [GitHub](https://github.com/athanasiosem/bublbobl-rom-extractor)
 
 🔠 Translations
 - **OWASP API Security TOP 10**: Lead Greek language translation for the official OWASP project. [Website](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/)
