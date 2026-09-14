@@ -1,7 +1,6 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=flat&logo=guardsafe&logoColor=white)
 
-## Hello there! 👋
-I am Athanasios Emmanouilidis, a Senior Software Engineer in the Banking & Fintech sector with a deep interest in Cybersecurity.
+Athanasios Emmanouilidis is a Senior Software Engineer in the Banking & Fintech sector with a deep interest in Cybersecurity.
 
 ## Selected Personal Projects </>
 
@@ -14,7 +13,7 @@ I am Athanasios Emmanouilidis, a Senior Software Engineer in the Banking & Finte
 - **bublbobl-rom-extractor**: Recover the MAME bublbobl ROM set from a legitimately-owned Steam build of Bubble Bobble 4 Friends: The Baron's Workshop [GitHub](https://github.com/athanasiosem/bublbobl-rom-extractor)
 
 🔠 Translations
-- **OWASP API Security TOP 10**: Lead Greek language translation for the official OWASP project. [Website](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/)
+- **OWASP API Security TOP 10**: Greek language translation for the official OWASP project. [Website](https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/)
 
 ## Connect with me 🌐
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/athanasiosem/).
+Feel free to connect with him on [LinkedIn](https://www.linkedin.com/in/athanasiosem/).
