@@ -1,6 +1,6 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=flat&logo=guardsafe&logoColor=white)
 
-Athanasios Emmanouilidis is a Senior Software Engineer in the Banking & Fintech sector with a deep interest in Cybersecurity.
+Athanasios Emmanouilidis is a Senior Software Engineer in the Banking & Fintech sector.
 
 ## Selected Personal Projects </>
 
